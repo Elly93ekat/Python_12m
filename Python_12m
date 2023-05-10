@@ -1,0 +1,4 @@
+money = 100000
+deposit = [5600, 5900, 4280, 4000] 
+max_deposit = max(deposit)
+print("Наибольшее число:", max_deposit)
